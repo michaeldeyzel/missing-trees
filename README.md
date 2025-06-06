@@ -1,5 +1,5 @@
 
-<span style="color: red"> App decommission to avoid charges. </span>
+![#f03c15] App decommission to avoid charges.
   
 Usage:
 ```bash
