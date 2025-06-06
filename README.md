@@ -1,5 +1,7 @@
 
-![#f03c15](App decommission to avoid charges.)
+```diff
+- App decommission to avoid charges.
+```
   
 Usage:
 ```bash
