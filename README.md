@@ -1,5 +1,5 @@
 
-![#f03c15] App decommission to avoid charges.
+![#f03c15](App decommission to avoid charges.)
   
 Usage:
 ```bash
